@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @MikasaMumei
+- 👋 Hello, I’m Chase
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning Python, Matlab...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 MikasaMumei/MikasaMumei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
